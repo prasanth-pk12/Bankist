@@ -5,4 +5,6 @@
 
 ## Live Demo
 Githup pages link : https://prasanth023.github.io/Bankist/ <br>
-Netlify Link :
+
+User: js | Password: 1111
+User: jd | Password: 2222
