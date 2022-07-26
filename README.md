@@ -4,5 +4,5 @@
 - In future if I want to develope it more I will add backend functionality with REST API.
 
 ## Live Demo
-Githup pages link : https://prasanth023.github.io/Bankist/
+Githup pages link : https://prasanth023.github.io/Bankist/ <br>
 Netlify Link :
