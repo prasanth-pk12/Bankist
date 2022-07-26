@@ -6,5 +6,5 @@
 ## Live Demo
 Githup pages link : https://prasanth023.github.io/Bankist/ <br>
 
-User: js | Password: 1111
+User: js | Password: 1111 <br>
 User: jd | Password: 2222
