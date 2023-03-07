@@ -1,7 +1,5 @@
 # Bankist Website
-- It is bank transaction website. It is simple website developed using HTML, CSS, Javascript. user can log in and send and retrieve money.
-- I didnot use backend as it is a simple website. But I have defied array of list users and their password in my javascript programming.So user name wcich are in the array can login. 
-- In future if I want to develope it more I will add backend functionality with REST API.
+As a web developer, I designed and developed a bank transaction website using HTML, CSS, and Javascript. The website features user authentication with an array of usernames and passwords, allowing users to log in and send or retrieve money. Although I did not include backend functionality in the initial version, I plan to implement it in the future with a REST API. By doing so, I aim to improve the website's performance, security, and scalability.
 
 ## Live Demo
 Githup pages link : https://prasanth023.github.io/Bankist/ <br>
