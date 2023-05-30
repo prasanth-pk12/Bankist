@@ -1,5 +1,5 @@
 # Bankist Website
-As a web developer, I designed and developed a bank transaction website using HTML, CSS, and Javascript. The website features user authentication with an array of usernames and passwords, allowing users to log in and send or retrieve money. Although I did not include backend functionality in the initial version, I plan to implement it in the future with a REST API. By doing so, I aim to improve the website's performance, security, and scalability.
+I have developed Bankist, a bank transaction website using frontend technologies such as HTML, CSS, and JavaScript. The website provides users with an interactive interface to manage their financial transactions. It includes features like user authentication, displaying account details, transaction history, and basic fund transfer functionality. At present, the project does not have backend functionality implemented. The focus has been on creating a seamless and user-friendly experience while prioritizing the security of user data.
 
 ## Live Demo
 Githup pages link : https://prasanth023.github.io/Bankist/ <br>
